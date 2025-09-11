@@ -55,9 +55,10 @@ The workflow is divided into two main parts:
 ---
 
 ## 📊 Results
-- **Random Forest Accuracy:** `95.08%` ✅  
+- **Silhouette Score for Clustering:** `0.250` ✅
+- **Random Forest Accuracy:** `96.98%` ✅  
 - **Classification Report:**
-  - Precision, Recall, and F1-score all ≈ `0.95`.  
+  - Precision, Recall, and F1-score all ≈ `0.96`.  
 - Strong evidence that clusters are well-separated and predictable.
 
 ---
