@@ -5,9 +5,10 @@ This project focuses on analyzing **Credit Card Dataset for Clustering**.
 The workflow is divided into two main parts:
 1. **Unsupervised Learning (K-Means Clustering)**  
    - Used to segment customers based on their credit card usage patterns.
+   - Achieved **0.250 Silhouette Score for Clustering** 🎯
 2. **Supervised Learning (Random Forest Classification)**  
    - Built a classification model on the clustered dataset to predict cluster labels.  
-   - Achieved **95.08% accuracy** 🎯.
+   - Achieved **96.98% accuracy** 🎯.
 
 ---
 
