@@ -81,9 +81,9 @@ The workflow is divided into two main parts:
 <p>
   <img src="assets/cluster.png" alt="Clustering Visualization" width="600"/>
 </p>
-
-</div>
 <sub>Visualization of the dataset after applying K-Means clustering.</sub>
+</div>
+
 
 
 ---
