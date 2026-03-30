@@ -71,7 +71,6 @@ The workflow is divided into two main parts:
 
 <div align="center">
 
-### Elbow Method (Optimal K Selection)
 <p>
   <img src="assets/elbow.png" alt="Elbow Method Plot" width="600"/>
 </p>
@@ -79,13 +78,13 @@ The workflow is divided into two main parts:
 
 ---
 
-### Final Clustering Result
-<sub>Visualization of the dataset after applying K-Means clustering.</sub>
 <p>
   <img src="assets/cluster.png" alt="Clustering Visualization" width="600"/>
 </p>
 
 </div>
+<sub>Visualization of the dataset after applying K-Means clustering.</sub>
+
 
 ---
 <h3 align="center">Developed as an Independent Machine Learning Project</h3>
